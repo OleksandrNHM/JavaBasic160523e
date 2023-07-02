@@ -21,7 +21,7 @@ public class Box {
         this.length = length;
         this.volume = width * height * length;
 
-        System.out.println("Объем коробки = " + volume);
+        System.out.println("Объем коробки: - " + volume);
 
 
 
